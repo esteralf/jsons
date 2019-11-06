@@ -152,11 +152,13 @@
       "lista":[
          {
             "id": 2,
-            "nombre": "Depilación de cejas"
+            "nombre": "Depilación de cejas",
+            "costo":25000
          },
          {
             "id":3,
-            "nombre": "Alineamiento de cejas"
+            "nombre": "Alineamiento de cejas",
+            "costo":35000
          }
       ]
    },
